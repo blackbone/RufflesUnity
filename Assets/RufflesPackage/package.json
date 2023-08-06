@@ -1,0 +1,13 @@
+{
+  "name": "com.midlevel.ruffles",
+  "displayName": "Ruffles",
+  "version": "11.1.9",
+  "unity": "2022.1",
+  "keywords": [
+    "Network",
+    "Udp",
+    "Socket",
+    "Transport"
+  ],
+  "description": "Ruffles is a fully managed UDP library designed for high performance and low latency."
+}
